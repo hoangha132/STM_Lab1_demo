@@ -19,7 +19,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "exercise2.h"
+#include "exercise3.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -73,7 +73,7 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
-  init_exercise2();
+  init_exercise3();
   /* USER CODE END Init */
 
   /* Configure the system clock */
@@ -94,7 +94,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	  exercise2_run();
+	  exercise3_run();
     /* USER CODE BEGIN 3 */
 	  HAL_Delay(1000);
   }
@@ -153,7 +153,9 @@ static void MX_GPIO_Init(void)
   HAL_GPIO_WritePin(GPIOA, LED_RED_Pin|LED_YELLOW_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOB, LED_1_Pin|LED_11_Pin|LED_12_Pin, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOB, LED_1_Pin|LED_2_Pin|LED_3_Pin|LED_11_Pin
+                          |LED_12_Pin|LED_4_Pin|LED_5_Pin|LED_6_Pin
+                          |LED_7_Pin|LED_8_Pin|LED_10_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pins : LED_RED_Pin LED_YELLOW_Pin */
   GPIO_InitStruct.Pin = LED_RED_Pin|LED_YELLOW_Pin;
@@ -162,12 +164,22 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 
-  /*Configure GPIO pins : LED_1_Pin LED_11_Pin LED_12_Pin */
-  GPIO_InitStruct.Pin = LED_1_Pin|LED_11_Pin|LED_12_Pin;
+  /*Configure GPIO pins : LED_1_Pin LED_2_Pin LED_3_Pin LED_11_Pin
+                           LED_12_Pin LED_4_Pin LED_5_Pin LED_6_Pin
+                           LED_7_Pin LED_8_Pin LED_10_Pin */
+  GPIO_InitStruct.Pin = LED_1_Pin|LED_2_Pin|LED_3_Pin|LED_11_Pin
+                          |LED_12_Pin|LED_4_Pin|LED_5_Pin|LED_6_Pin
+                          |LED_7_Pin|LED_8_Pin|LED_10_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
+
+  /*Configure GPIO pin : LED_9_Pin */
+  GPIO_InitStruct.Pin = LED_9_Pin;
+  GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  HAL_GPIO_Init(LED_9_GPIO_Port, &GPIO_InitStruct);
 
 }
 
