@@ -37,11 +37,11 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING, OCTETS
  16 .debug_macro  00000eba  00000000  00000000  000249c8  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 17 .debug_line   00004bed  00000000  00000000  00025882  2**0
+ 17 .debug_line   00004beb  00000000  00000000  00025882  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 18 .debug_str    000797e2  00000000  00000000  0002a46f  2**0
+ 18 .debug_str    000797e2  00000000  00000000  0002a46d  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 19 .comment      00000053  00000000  00000000  000a3c51  2**0
+ 19 .comment      00000053  00000000  00000000  000a3c4f  2**0
                   CONTENTS, READONLY
  20 .debug_frame  00000d9c  00000000  00000000  000a3ca4  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
@@ -290,22 +290,23 @@ int main(void)
   /* Reset of all peripherals, Initializes the Flash interface and the Systick. */
   HAL_Init();
  8000284:	f000 f928 	bl	80004d8 <HAL_Init>
-
   /* USER CODE BEGIN Init */
-  init_exercise2();
- 8000288:	f7ff ff60 	bl	800014c <init_exercise2>
+
   /* USER CODE END Init */
 
   /* Configure the system clock */
   SystemClock_Config();
- 800028c:	f000 f809 	bl	80002a2 <SystemClock_Config>
+ 8000288:	f000 f80b 	bl	80002a2 <SystemClock_Config>
   /* USER CODE BEGIN SysInit */
 
   /* USER CODE END SysInit */
 
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
- 8000290:	f000 f842 	bl	8000318 <MX_GPIO_Init>
+ 800028c:	f000 f844 	bl	8000318 <MX_GPIO_Init>
+  /* USER CODE BEGIN 2 */
+  init_exercise2();
+ 8000290:	f7ff ff5c 	bl	800014c <init_exercise2>
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)

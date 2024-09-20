@@ -73,7 +73,7 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
-  init_exercise2();
+
   /* USER CODE END Init */
 
   /* Configure the system clock */
@@ -86,7 +86,7 @@ int main(void)
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
   /* USER CODE BEGIN 2 */
-
+  init_exercise2();
   /* USER CODE END 2 */
 
   /* Infinite loop */
