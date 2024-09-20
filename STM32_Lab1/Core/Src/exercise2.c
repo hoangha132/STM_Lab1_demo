@@ -1,7 +1,7 @@
 #include "exercise2.h"
 
 static int led_status = LED_RED;
-int counter2 = 0;
+int counter2 = 5;
 int led_delay = 5;
 
 void init_exercise2(){
