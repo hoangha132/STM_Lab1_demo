@@ -22,25 +22,26 @@ void led_off(){
 	HAL_GPIO_WritePin(LED_YELLOW_GPIO_Port, LED_YELLOW_Pin, GPIO_PIN_RESET);
 }
 void exercise1_run(){
-	state_counter++;
-	if (state_counter>=2){
-		state_counter = 0;
-		switch(led_status){
-				case LED_ON:
-					led_on();
-					if(1){
-						led_status = LED_OFF;
-					}
-					break;
-				case LED_OFF:
-					led_off();
-					if(1){
-						led_status = LED_ON;
-					}
-					break;
-				default:
-					break;
-			}
-	}
-
+//	state_counter++;
+//	if (state_counter>=2){
+//		state_counter = 0;
+//		switch(led_status){
+//				case LED_ON:
+//					led_on();
+//					if(1){
+//						led_status = LED_OFF;
+//					}
+//					break;
+//				case LED_OFF:
+//					led_off();
+//					if(1){
+//						led_status = LED_ON;
+//					}
+//					break;
+//				default:
+//					break;
+//			}
+//	}
+	HAL_GPIO_TogglePin(LED_RED_GPIO_Port, LED_RED_Pin);
+	HAL_GPIO_TogglePin(LED_YELLOW_GPIO_Port, LED_YELLOW_Pin);
 }
