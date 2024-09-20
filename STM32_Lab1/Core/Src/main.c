@@ -20,6 +20,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "exercise7.h"
+#include "exercise8.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -86,16 +87,22 @@ int main(void)
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
   /* USER CODE BEGIN 2 */
-  init_7();
+  clearALLClock();
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
+  int count = 0;
   while (1)
   {
     /* USER CODE END WHILE */
-	  clearALLClock();
+	  if (count >= 12){
+		  clearALLClock();
+		  count = 0;
+	  }
+	  setNumberOnClock(count);
 	  HAL_Delay(1000);
+	  count++;
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
