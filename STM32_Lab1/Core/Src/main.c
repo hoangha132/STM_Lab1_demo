@@ -19,7 +19,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "exercise1.h"
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -73,7 +73,7 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
-  init_exercise1();
+//  init_exercise1();
   /* USER CODE END Init */
 
   /* Configure the system clock */
@@ -94,9 +94,13 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	  exercise1_run();
+
     /* USER CODE BEGIN 3 */
-	  HAL_Delay(1000);
+
+	  HAL_GPIO_WritePin(LED_RED_GPIO_Port, LED_RED_Pin, SET);
+//	  HAL_GPIO_TogglePin(LED_RED_GPIO_Port, LED_RED_Pin);
+//	  HAL_GPIO_TogglePin(LED_YELLOW_GPIO_Port, LED_YELLOW_Pin);
+//	  HAL_Delay(2000);
   }
   /* USER CODE END 3 */
 }
