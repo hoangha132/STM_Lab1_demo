@@ -1,6 +1,6 @@
 #include "exercise2.h"
 
-static int led_status = LED_RED;
+static int led_status = LED_GREEN;
 int counter2 = 5;
 int led_delay = 5;
 
