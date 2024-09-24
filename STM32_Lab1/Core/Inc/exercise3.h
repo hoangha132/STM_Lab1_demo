@@ -7,6 +7,7 @@
 #define LED_YELLOW  1
 #define LED_GREEN   2
 
+void set_led_group(int direction, int led_color);
 void init_exercise3();
 void exercise3_run();
 
