@@ -19,39 +19,76 @@ void set_led_group(int direction, int led_color) {
     // Select the correct LED to set based on the color
     switch (direction) {
         case 0: // North (LED_11, LED_12, LED_1)
-            if (led_color == LED_RED)
+            if (led_color == LED_RED){
                 HAL_GPIO_WritePin(LED_11_GPIO_Port, LED_11_Pin, GPIO_PIN_SET);
-            else if (led_color == LED_YELLOW)
+                HAL_GPIO_WritePin(LED_1_GPIO_Port, LED_1_Pin, GPIO_PIN_RESET);
+                HAL_GPIO_WritePin(LED_12_GPIO_Port, LED_12_Pin, GPIO_PIN_RESET);
+            }
+            else if (led_color == LED_YELLOW){
+            	HAL_GPIO_WritePin(LED_11_GPIO_Port, LED_11_Pin, GPIO_PIN_RESET);
                 HAL_GPIO_WritePin(LED_12_GPIO_Port, LED_12_Pin, GPIO_PIN_SET);
-            else if (led_color == LED_GREEN)
+                HAL_GPIO_WritePin(LED_1_GPIO_Port, LED_1_Pin, GPIO_PIN_RESET);
+            }
+            else if (led_color == LED_GREEN){
+            	HAL_GPIO_WritePin(LED_11_GPIO_Port, LED_11_Pin, GPIO_PIN_RESET);
+            	HAL_GPIO_WritePin(LED_12_GPIO_Port, LED_12_Pin, GPIO_PIN_RESET);
                 HAL_GPIO_WritePin(LED_1_GPIO_Port, LED_1_Pin, GPIO_PIN_SET);
+            }
             break;
 
-        case 1: // East (LED_5, LED_6, LED_7)
-            if (led_color == LED_RED)
-                HAL_GPIO_WritePin(LED_2_GPIO_Port, LED_5_Pin, GPIO_PIN_SET);
-            else if (led_color == LED_YELLOW)
-                HAL_GPIO_WritePin(LED_3_GPIO_Port, LED_6_Pin, GPIO_PIN_SET);
-            else if (led_color == LED_GREEN)
-                HAL_GPIO_WritePin(LED_4_GPIO_Port, LED_7_Pin, GPIO_PIN_SET);
+        case 2: // South (LED_7, LED_6, LED_5)
+            if (led_color == LED_RED){
+            	HAL_GPIO_WritePin(LED_7_GPIO_Port, LED_7_Pin, GPIO_PIN_SET);
+                HAL_GPIO_WritePin(LED_5_GPIO_Port, LED_5_Pin, GPIO_PIN_RESET);
+                HAL_GPIO_WritePin(LED_6_GPIO_Port, LED_6_Pin, GPIO_PIN_RESET);
+            }
+            else if (led_color == LED_YELLOW){
+            	HAL_GPIO_WritePin(LED_5_GPIO_Port, LED_5_Pin, GPIO_PIN_RESET);
+				HAL_GPIO_WritePin(LED_7_GPIO_Port, LED_7_Pin, GPIO_PIN_RESET);
+				HAL_GPIO_WritePin(LED_6_GPIO_Port, LED_6_Pin, GPIO_PIN_SET);
+            }
+            else if (led_color == LED_GREEN){
+            	HAL_GPIO_WritePin(LED_5_GPIO_Port, LED_5_Pin, GPIO_PIN_SET);
+				HAL_GPIO_WritePin(LED_7_GPIO_Port, LED_7_Pin, GPIO_PIN_RESET);
+				HAL_GPIO_WritePin(LED_6_GPIO_Port, LED_6_Pin, GPIO_PIN_RESET);
+            }
+
             break;
 
-        case 2: // South (LED_9, LED_10, LED_11)
-            if (led_color == LED_RED)
-                HAL_GPIO_WritePin(LED_7_GPIO_Port, LED_9_Pin, GPIO_PIN_SET);
-            else if (led_color == LED_YELLOW)
-                HAL_GPIO_WritePin(LED_6_GPIO_Port, LED_10_Pin, GPIO_PIN_SET);
-            else if (led_color == LED_GREEN)
-                HAL_GPIO_WritePin(LED_5_GPIO_Port, LED_11_Pin, GPIO_PIN_SET);
+        case 1: // East (LED_2, LED_3, LED_4)
+            if (led_color == LED_RED){
+                HAL_GPIO_WritePin(LED_2_GPIO_Port, LED_2_Pin, GPIO_PIN_SET);
+                HAL_GPIO_WritePin(LED_3_GPIO_Port, LED_3_Pin, GPIO_PIN_RESET);
+                HAL_GPIO_WritePin(LED_4_GPIO_Port, LED_4_Pin, GPIO_PIN_RESET);
+            }
+            else if (led_color == LED_YELLOW){
+            	HAL_GPIO_WritePin(LED_2_GPIO_Port, LED_2_Pin, GPIO_PIN_RESET);
+				HAL_GPIO_WritePin(LED_3_GPIO_Port, LED_3_Pin, GPIO_PIN_SET);
+				HAL_GPIO_WritePin(LED_4_GPIO_Port, LED_4_Pin, GPIO_PIN_RESET);
+            }
+            else if (led_color == LED_GREEN){
+            	HAL_GPIO_WritePin(LED_2_GPIO_Port, LED_2_Pin, GPIO_PIN_RESET);
+				HAL_GPIO_WritePin(LED_3_GPIO_Port, LED_3_Pin, GPIO_PIN_RESET);
+				HAL_GPIO_WritePin(LED_4_GPIO_Port, LED_4_Pin, GPIO_PIN_SET);
+            }
             break;
 
-        case 3: // West (LED_3, LED_2, LED_1)
-            if (led_color == LED_RED)
-                HAL_GPIO_WritePin(LED_10_GPIO_Port, LED_3_Pin, GPIO_PIN_SET);
-            else if (led_color == LED_YELLOW)
-                HAL_GPIO_WritePin(LED_9_GPIO_Port, LED_2_Pin, GPIO_PIN_SET);
-            else if (led_color == LED_GREEN)
-                HAL_GPIO_WritePin(LED_8_GPIO_Port, LED_1_Pin, GPIO_PIN_SET);
+        case 3: // West (LED_10, LED_9, LED_8)
+            if (led_color == LED_RED){
+                HAL_GPIO_WritePin(LED_10_GPIO_Port, LED_10_Pin, GPIO_PIN_SET);
+                HAL_GPIO_WritePin(LED_9_GPIO_Port, LED_9_Pin, GPIO_PIN_RESET);
+                HAL_GPIO_WritePin(LED_8_GPIO_Port, LED_8_Pin, GPIO_PIN_RESET);
+            }
+            else if (led_color == LED_YELLOW){
+                HAL_GPIO_WritePin(LED_10_GPIO_Port, LED_10_Pin, GPIO_PIN_RESET);
+                HAL_GPIO_WritePin(LED_9_GPIO_Port, LED_9_Pin, GPIO_PIN_SET);
+                HAL_GPIO_WritePin(LED_8_GPIO_Port, LED_8_Pin, GPIO_PIN_RESET);
+            }
+            else if (led_color == LED_GREEN){
+                HAL_GPIO_WritePin(LED_10_GPIO_Port, LED_10_Pin, GPIO_PIN_RESET);
+                HAL_GPIO_WritePin(LED_9_GPIO_Port, LED_9_Pin, GPIO_PIN_RESET);
+                HAL_GPIO_WritePin(LED_8_GPIO_Port, LED_8_Pin, GPIO_PIN_SET);
+            }
             break;
 
         default:
