@@ -1,45 +1,54 @@
 #include "exercise5.h"
 
+typedef enum {
+    RED_STATE,
+    GREEN_STATE,
+    YELLOW_STATE
+} TrafficLightState;
+
 int red_duration = 5;
-int yellow_duration = 0;
-int green_duration = 0;
+int green_duration = 3;
+int yellow_duration = 2;
+TrafficLightState current_state = RED_STATE;
 
 void exercise5_run() {
-    // Handle RED light phase
-    if (red_duration > 0) {
-        set_led_group(0, LED_RED);
-        set_led_group(2, LED_RED);
-        display7SEG(red_duration);
-        red_duration--;
-        return;  // Exit after processing the red phase
-    }
+    switch (current_state) {
+        case RED_STATE:
+            if (red_duration >= 0) {
+                set_led_group(0, LED_RED);
+                set_led_group(2, LED_RED);
+                display7SEG(red_duration);
+                red_duration--;
+            } else {
+                green_duration = 3;
+                current_state = GREEN_STATE;
+            }
+            break;
 
-    // Handle GREEN light phase
-    if (green_duration > 0) {
-        set_led_group(0, LED_GREEN);
-        set_led_group(2, LED_GREEN);
-        display7SEG(green_duration);
-        green_duration--;
-        return;  // Exit after processing the green phase
-    } else {
-        // Start the GREEN phase if not yet started
-        green_duration = 3;
-    }
+        case GREEN_STATE:
+            if (green_duration >= 0) {
+                set_led_group(0, LED_GREEN);
+                set_led_group(2, LED_GREEN);
+                display7SEG(green_duration);
+                green_duration--;
+            } else {
+                yellow_duration = 2;
+                current_state = YELLOW_STATE;
+            }
+            break;
 
-    // Handle YELLOW light phase
-    if (yellow_duration > 0) {
-        set_led_group(0, LED_YELLOW);
-        set_led_group(2, LED_YELLOW);
-        display7SEG(yellow_duration);
-        yellow_duration--;
-        return;  // Exit after processing the yellow phase
-    } else {
-        // Start the YELLOW phase if not yet started
-        yellow_duration = 2;
+        case YELLOW_STATE:
+            if (yellow_duration >= 0) {
+                set_led_group(0, LED_YELLOW);
+                set_led_group(2, LED_YELLOW);
+                display7SEG(yellow_duration);
+                yellow_duration--;
+            } else {
+                red_duration = 5;
+                current_state = RED_STATE;
+            }
+            break;
     }
-
-    // Reset to RED phase after all others complete
-    red_duration = 5;
 }
 
 
