@@ -94,6 +94,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
+	  //Ex10
 	  exercise10_run();
 	  HAL_Delay(10);
     /* USER CODE BEGIN 3 */

@@ -37,11 +37,11 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING, OCTETS
  16 .debug_macro  00015674  00000000  00000000  000246d8  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 17 .debug_line   000046ca  00000000  00000000  00039d4c  2**0
+ 17 .debug_line   000046cc  00000000  00000000  00039d4c  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 18 .debug_str    00079bc9  00000000  00000000  0003e416  2**0
+ 18 .debug_str    00079bc9  00000000  00000000  0003e418  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 19 .comment      00000053  00000000  00000000  000b7fdf  2**0
+ 19 .comment      00000053  00000000  00000000  000b7fe1  2**0
                   CONTENTS, READONLY
  20 .debug_frame  00000dcc  00000000  00000000  000b8034  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
@@ -569,11 +569,11 @@ int main(void)
   /* USER CODE BEGIN 2 */
   clearALLClock();
  800048c:	f7ff fe5e 	bl	800014c <clearALLClock>
-  /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
     /* USER CODE END WHILE */
+	  //Ex10
 	  exercise10_run();
  8000490:	f7ff ff8e 	bl	80003b0 <exercise10_run>
 	  HAL_Delay(10);
