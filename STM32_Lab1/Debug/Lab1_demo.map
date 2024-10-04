@@ -30,6 +30,351 @@ Discarded input sections
  .ARM.exidx     0x0000000000000000       0x10 c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
  .ARM.attributes
                 0x0000000000000000       0x1b c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise10.o
+ .text          0x0000000000000000        0x0 ./Core/Src/exercise10.o
+ .data          0x0000000000000000        0x0 ./Core/Src/exercise10.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/exercise10.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise6.o
+ .text          0x0000000000000000        0x0 ./Core/Src/exercise6.o
+ .data          0x0000000000000000        0x0 ./Core/Src/exercise6.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/exercise6.o
+ .bss.count     0x0000000000000000        0x4 ./Core/Src/exercise6.o
+ .text.test     0x0000000000000000       0xe8 ./Core/Src/exercise6.o
+ .debug_info    0x0000000000000000      0x236 ./Core/Src/exercise6.o
+ .debug_abbrev  0x0000000000000000      0x109 ./Core/Src/exercise6.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./Core/Src/exercise6.o
+ .debug_ranges  0x0000000000000000       0x10 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x196 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000     0x3468 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x5be ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x88 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x141 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/exercise6.o
+ .debug_macro   0x0000000000000000      0x154 ./Core/Src/exercise6.o
+ .debug_line    0x0000000000000000      0x690 ./Core/Src/exercise6.o
+ .debug_str     0x0000000000000000    0x78d48 ./Core/Src/exercise6.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/exercise6.o
+ .debug_frame   0x0000000000000000       0x2c ./Core/Src/exercise6.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/exercise6.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise7.o
+ .text          0x0000000000000000        0x0 ./Core/Src/exercise7.o
+ .data          0x0000000000000000        0x0 ./Core/Src/exercise7.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/exercise7.o
+ .text.init_7   0x0000000000000000       0x8c ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000     0x3468 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x5be ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x88 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x141 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000000000      0x154 ./Core/Src/exercise7.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise8.o
+ .text          0x0000000000000000        0x0 ./Core/Src/exercise8.o
+ .data          0x0000000000000000        0x0 ./Core/Src/exercise8.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000     0x3468 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x5be ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x88 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x141 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000000000      0x154 ./Core/Src/exercise8.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .group         0x0000000000000000        0xc ./Core/Src/exercise9.o
+ .text          0x0000000000000000        0x0 ./Core/Src/exercise9.o
+ .data          0x0000000000000000        0x0 ./Core/Src/exercise9.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000     0x3468 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x5be ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x88 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x141 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000000000      0x154 ./Core/Src/exercise9.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
@@ -68,7 +413,41 @@ Discarded input sections
  .text          0x0000000000000000        0x0 ./Core/Src/main.o
  .data          0x0000000000000000        0x0 ./Core/Src/main.o
  .bss           0x0000000000000000        0x0 ./Core/Src/main.o
- .text.init_7   0x0000000000000000       0x8c ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/main.o
+ .debug_macro   0x0000000000000000     0x3468 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x5be ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x88 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x141 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x154 ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
  .group         0x0000000000000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
  .group         0x0000000000000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
@@ -1835,6 +2214,11 @@ Linker script and memory map
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp/crti.o
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp/crtbegin.o
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD ./Core/Src/exercise10.o
+LOAD ./Core/Src/exercise6.o
+LOAD ./Core/Src/exercise7.o
+LOAD ./Core/Src/exercise8.o
+LOAD ./Core/Src/exercise9.o
 LOAD ./Core/Src/main.o
 LOAD ./Core/Src/stm32f1xx_hal_msp.o
 LOAD ./Core/Src/stm32f1xx_it.o
@@ -1891,18 +2275,18 @@ LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  *(.text)
  .text          0x000000000800010c       0x40 c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.text*)
- .text.clearALLClock
-                0x000000000800014c       0x8c ./Core/Src/main.o
-                0x000000000800014c                clearALLClock
- .text.setNumberOnClock
-                0x00000000080001d8       0xec ./Core/Src/main.o
-                0x00000000080001d8                setNumberOnClock
- .text.clearNumberOnClock
-                0x00000000080002c4       0xec ./Core/Src/main.o
-                0x00000000080002c4                clearNumberOnClock
  .text.exercise10_run
-                0x00000000080003b0       0xcc ./Core/Src/main.o
-                0x00000000080003b0                exercise10_run
+                0x000000000800014c       0xcc ./Core/Src/exercise10.o
+                0x000000000800014c                exercise10_run
+ .text.clearALLClock
+                0x0000000008000218       0x8c ./Core/Src/exercise7.o
+                0x0000000008000218                clearALLClock
+ .text.setNumberOnClock
+                0x00000000080002a4       0xec ./Core/Src/exercise8.o
+                0x00000000080002a4                setNumberOnClock
+ .text.clearNumberOnClock
+                0x0000000008000390       0xec ./Core/Src/exercise9.o
+                0x0000000008000390                clearNumberOnClock
  .text.main     0x000000000800047c       0x20 ./Core/Src/main.o
                 0x000000000800047c                main
  .text.SystemClock_Config
@@ -2159,11 +2543,11 @@ LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .bss           0x000000002000000c       0x1c c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.bss*)
  .bss.currentHour
-                0x0000000020000028        0x4 ./Core/Src/main.o
+                0x0000000020000028        0x4 ./Core/Src/exercise10.o
  .bss.currentMinute
-                0x000000002000002c        0x4 ./Core/Src/main.o
+                0x000000002000002c        0x4 ./Core/Src/exercise10.o
  .bss.currentSecond
-                0x0000000020000030        0x4 ./Core/Src/main.o
+                0x0000000020000030        0x4 ./Core/Src/exercise10.o
  *(COMMON)
  COMMON         0x0000000020000034        0x4 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
                 0x0000000020000034                uwTick
@@ -2195,167 +2579,215 @@ LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .ARM.attributes
                 0x000000000000001d       0x2d c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp/crtbegin.o
  .ARM.attributes
-                0x000000000000004a       0x2d ./Core/Src/main.o
+                0x000000000000004a       0x2d ./Core/Src/exercise10.o
  .ARM.attributes
-                0x0000000000000077       0x2d ./Core/Src/stm32f1xx_hal_msp.o
+                0x0000000000000077       0x2d ./Core/Src/exercise7.o
  .ARM.attributes
-                0x00000000000000a4       0x2d ./Core/Src/stm32f1xx_it.o
+                0x00000000000000a4       0x2d ./Core/Src/exercise8.o
  .ARM.attributes
-                0x00000000000000d1       0x2d ./Core/Src/system_stm32f1xx.o
+                0x00000000000000d1       0x2d ./Core/Src/exercise9.o
  .ARM.attributes
-                0x00000000000000fe       0x21 ./Core/Startup/startup_stm32f103c6ux.o
+                0x00000000000000fe       0x2d ./Core/Src/main.o
  .ARM.attributes
-                0x000000000000011f       0x2d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+                0x000000000000012b       0x2d ./Core/Src/stm32f1xx_hal_msp.o
  .ARM.attributes
-                0x000000000000014c       0x2d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+                0x0000000000000158       0x2d ./Core/Src/stm32f1xx_it.o
  .ARM.attributes
-                0x0000000000000179       0x2d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+                0x0000000000000185       0x2d ./Core/Src/system_stm32f1xx.o
  .ARM.attributes
-                0x00000000000001a6       0x2d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+                0x00000000000001b2       0x21 ./Core/Startup/startup_stm32f103c6ux.o
  .ARM.attributes
-                0x00000000000001d3       0x2d c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+                0x00000000000001d3       0x2d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
  .ARM.attributes
-                0x0000000000000200       0x2d c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+                0x0000000000000200       0x2d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
  .ARM.attributes
-                0x000000000000022d       0x1d c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp/crtn.o
+                0x000000000000022d       0x2d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .ARM.attributes
+                0x000000000000025a       0x2d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .ARM.attributes
+                0x0000000000000287       0x2d c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000002b4       0x2d c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000002e1       0x1d c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp/crtn.o
 OUTPUT(Lab1_demo.elf elf32-littlearm)
 LOAD linker stubs
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp\libgcc.a
 
-.debug_info     0x0000000000000000     0x3097
- .debug_info    0x0000000000000000      0x600 ./Core/Src/main.o
- .debug_info    0x0000000000000600      0x2fc ./Core/Src/stm32f1xx_hal_msp.o
- .debug_info    0x00000000000008fc      0x222 ./Core/Src/stm32f1xx_it.o
- .debug_info    0x0000000000000b1e      0x2be ./Core/Src/system_stm32f1xx.o
- .debug_info    0x0000000000000ddc       0x22 ./Core/Startup/startup_stm32f103c6ux.o
- .debug_info    0x0000000000000dfe      0x74c ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_info    0x000000000000154a      0xbbe ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_info    0x0000000000002108      0x701 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_info    0x0000000000002809      0x88e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+.debug_info     0x0000000000000000     0x387b
+ .debug_info    0x0000000000000000      0x1c8 ./Core/Src/exercise10.o
+ .debug_info    0x00000000000001c8      0x251 ./Core/Src/exercise7.o
+ .debug_info    0x0000000000000419      0x24f ./Core/Src/exercise8.o
+ .debug_info    0x0000000000000668      0x24f ./Core/Src/exercise9.o
+ .debug_info    0x00000000000008b7      0x52d ./Core/Src/main.o
+ .debug_info    0x0000000000000de4      0x2fc ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_info    0x00000000000010e0      0x222 ./Core/Src/stm32f1xx_it.o
+ .debug_info    0x0000000000001302      0x2be ./Core/Src/system_stm32f1xx.o
+ .debug_info    0x00000000000015c0       0x22 ./Core/Startup/startup_stm32f103c6ux.o
+ .debug_info    0x00000000000015e2      0x74c ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_info    0x0000000000001d2e      0xbbe ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_info    0x00000000000028ec      0x701 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_info    0x0000000000002fed      0x88e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
-.debug_abbrev   0x0000000000000000      0xea0
- .debug_abbrev  0x0000000000000000      0x1f6 ./Core/Src/main.o
- .debug_abbrev  0x00000000000001f6      0x11d ./Core/Src/stm32f1xx_hal_msp.o
- .debug_abbrev  0x0000000000000313       0xd2 ./Core/Src/stm32f1xx_it.o
- .debug_abbrev  0x00000000000003e5      0x14e ./Core/Src/system_stm32f1xx.o
- .debug_abbrev  0x0000000000000533       0x12 ./Core/Startup/startup_stm32f103c6ux.o
- .debug_abbrev  0x0000000000000545      0x1ed ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_abbrev  0x0000000000000732      0x313 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_abbrev  0x0000000000000a45      0x1e8 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_abbrev  0x0000000000000c2d      0x273 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+.debug_abbrev   0x0000000000000000     0x1258
+ .debug_abbrev  0x0000000000000000       0xc7 ./Core/Src/exercise10.o
+ .debug_abbrev  0x00000000000000c7       0xff ./Core/Src/exercise7.o
+ .debug_abbrev  0x00000000000001c6      0x112 ./Core/Src/exercise8.o
+ .debug_abbrev  0x00000000000002d8      0x112 ./Core/Src/exercise9.o
+ .debug_abbrev  0x00000000000003ea      0x1c4 ./Core/Src/main.o
+ .debug_abbrev  0x00000000000005ae      0x11d ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_abbrev  0x00000000000006cb       0xd2 ./Core/Src/stm32f1xx_it.o
+ .debug_abbrev  0x000000000000079d      0x14e ./Core/Src/system_stm32f1xx.o
+ .debug_abbrev  0x00000000000008eb       0x12 ./Core/Startup/startup_stm32f103c6ux.o
+ .debug_abbrev  0x00000000000008fd      0x1ed ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_abbrev  0x0000000000000aea      0x313 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_abbrev  0x0000000000000dfd      0x1e8 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_abbrev  0x0000000000000fe5      0x273 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
-.debug_aranges  0x0000000000000000      0x3f8
+.debug_aranges  0x0000000000000000      0x458
  .debug_aranges
-                0x0000000000000000       0x60 ./Core/Src/main.o
+                0x0000000000000000       0x20 ./Core/Src/exercise10.o
  .debug_aranges
-                0x0000000000000060       0x20 ./Core/Src/stm32f1xx_hal_msp.o
+                0x0000000000000020       0x28 ./Core/Src/exercise7.o
  .debug_aranges
-                0x0000000000000080       0x60 ./Core/Src/stm32f1xx_it.o
+                0x0000000000000048       0x20 ./Core/Src/exercise8.o
  .debug_aranges
-                0x00000000000000e0       0x28 ./Core/Src/system_stm32f1xx.o
+                0x0000000000000068       0x20 ./Core/Src/exercise9.o
  .debug_aranges
-                0x0000000000000108       0x28 ./Core/Startup/startup_stm32f103c6ux.o
+                0x0000000000000088       0x38 ./Core/Src/main.o
  .debug_aranges
-                0x0000000000000130       0xe0 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+                0x00000000000000c0       0x20 ./Core/Src/stm32f1xx_hal_msp.o
  .debug_aranges
-                0x0000000000000210      0x100 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+                0x00000000000000e0       0x60 ./Core/Src/stm32f1xx_it.o
  .debug_aranges
-                0x0000000000000310       0x58 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+                0x0000000000000140       0x28 ./Core/Src/system_stm32f1xx.o
  .debug_aranges
-                0x0000000000000368       0x90 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+                0x0000000000000168       0x28 ./Core/Startup/startup_stm32f103c6ux.o
+ .debug_aranges
+                0x0000000000000190       0xe0 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_aranges
+                0x0000000000000270      0x100 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_aranges
+                0x0000000000000370       0x58 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_aranges
+                0x00000000000003c8       0x90 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
-.debug_ranges   0x0000000000000000      0x370
- .debug_ranges  0x0000000000000000       0x50 ./Core/Src/main.o
- .debug_ranges  0x0000000000000050       0x10 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_ranges  0x0000000000000060       0x50 ./Core/Src/stm32f1xx_it.o
- .debug_ranges  0x00000000000000b0       0x18 ./Core/Src/system_stm32f1xx.o
- .debug_ranges  0x00000000000000c8       0x20 ./Core/Startup/startup_stm32f103c6ux.o
- .debug_ranges  0x00000000000000e8       0xd0 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_ranges  0x00000000000001b8       0xf0 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_ranges  0x00000000000002a8       0x48 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_ranges  0x00000000000002f0       0x80 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+.debug_ranges   0x0000000000000000      0x390
+ .debug_ranges  0x0000000000000000       0x10 ./Core/Src/exercise10.o
+ .debug_ranges  0x0000000000000010       0x18 ./Core/Src/exercise7.o
+ .debug_ranges  0x0000000000000028       0x10 ./Core/Src/exercise8.o
+ .debug_ranges  0x0000000000000038       0x10 ./Core/Src/exercise9.o
+ .debug_ranges  0x0000000000000048       0x28 ./Core/Src/main.o
+ .debug_ranges  0x0000000000000070       0x10 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_ranges  0x0000000000000080       0x50 ./Core/Src/stm32f1xx_it.o
+ .debug_ranges  0x00000000000000d0       0x18 ./Core/Src/system_stm32f1xx.o
+ .debug_ranges  0x00000000000000e8       0x20 ./Core/Startup/startup_stm32f103c6ux.o
+ .debug_ranges  0x0000000000000108       0xd0 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_ranges  0x00000000000001d8       0xf0 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_ranges  0x00000000000002c8       0x48 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_ranges  0x0000000000000310       0x80 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
-.debug_macro    0x0000000000000000    0x15674
- .debug_macro   0x0000000000000000      0x1a8 ./Core/Src/main.o
- .debug_macro   0x00000000000001a8      0xa9c ./Core/Src/main.o
- .debug_macro   0x0000000000000c44      0x20f ./Core/Src/main.o
- .debug_macro   0x0000000000000e53       0x2e ./Core/Src/main.o
- .debug_macro   0x0000000000000e81       0x22 ./Core/Src/main.o
- .debug_macro   0x0000000000000ea3       0x22 ./Core/Src/main.o
- .debug_macro   0x0000000000000ec5       0x8e ./Core/Src/main.o
- .debug_macro   0x0000000000000f53       0x51 ./Core/Src/main.o
- .debug_macro   0x0000000000000fa4      0x103 ./Core/Src/main.o
- .debug_macro   0x00000000000010a7       0x6a ./Core/Src/main.o
- .debug_macro   0x0000000000001111      0x1df ./Core/Src/main.o
- .debug_macro   0x00000000000012f0       0x1c ./Core/Src/main.o
- .debug_macro   0x000000000000130c       0x22 ./Core/Src/main.o
- .debug_macro   0x000000000000132e       0xc3 ./Core/Src/main.o
- .debug_macro   0x00000000000013f1      0xd23 ./Core/Src/main.o
- .debug_macro   0x0000000000002114     0xde75 ./Core/Src/main.o
- .debug_macro   0x000000000000ff89       0x6d ./Core/Src/main.o
- .debug_macro   0x000000000000fff6     0x3468 ./Core/Src/main.o
- .debug_macro   0x000000000001345e      0x174 ./Core/Src/main.o
- .debug_macro   0x00000000000135d2       0x5c ./Core/Src/main.o
- .debug_macro   0x000000000001362e      0x5be ./Core/Src/main.o
- .debug_macro   0x0000000000013bec      0x1b7 ./Core/Src/main.o
- .debug_macro   0x0000000000013da3      0x1cb ./Core/Src/main.o
- .debug_macro   0x0000000000013f6e      0x114 ./Core/Src/main.o
- .debug_macro   0x0000000000014082      0x1b2 ./Core/Src/main.o
- .debug_macro   0x0000000000014234       0x27 ./Core/Src/main.o
- .debug_macro   0x000000000001425b      0x12f ./Core/Src/main.o
- .debug_macro   0x000000000001438a      0x1bc ./Core/Src/main.o
- .debug_macro   0x0000000000014546       0x34 ./Core/Src/main.o
- .debug_macro   0x000000000001457a       0x3c ./Core/Src/main.o
- .debug_macro   0x00000000000145b6       0x57 ./Core/Src/main.o
- .debug_macro   0x000000000001460d       0x88 ./Core/Src/main.o
- .debug_macro   0x0000000000014695      0x183 ./Core/Src/main.o
- .debug_macro   0x0000000000014818      0x141 ./Core/Src/main.o
- .debug_macro   0x0000000000014959       0x69 ./Core/Src/main.o
- .debug_macro   0x00000000000149c2      0x154 ./Core/Src/main.o
- .debug_macro   0x0000000000014b16      0x192 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_macro   0x0000000000014ca8      0x19c ./Core/Src/stm32f1xx_it.o
- .debug_macro   0x0000000000014e44      0x183 ./Core/Src/system_stm32f1xx.o
- .debug_macro   0x0000000000014fc7      0x1a7 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_macro   0x000000000001516e      0x183 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_macro   0x00000000000152f1      0x1ee ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_macro   0x00000000000154df      0x195 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+.debug_macro    0x0000000000000000    0x15ce2
+ .debug_macro   0x0000000000000000      0x1a8 ./Core/Src/exercise10.o
+ .debug_macro   0x00000000000001a8      0xa9c ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000000c44      0x20f ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000000e53       0x2e ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000000e81       0x22 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000000ea3       0x22 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000000ec5       0x8e ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000000f53       0x51 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000000fa4      0x103 ./Core/Src/exercise10.o
+ .debug_macro   0x00000000000010a7       0x6a ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000001111      0x1df ./Core/Src/exercise10.o
+ .debug_macro   0x00000000000012f0       0x1c ./Core/Src/exercise10.o
+ .debug_macro   0x000000000000130c       0x22 ./Core/Src/exercise10.o
+ .debug_macro   0x000000000000132e       0xc3 ./Core/Src/exercise10.o
+ .debug_macro   0x00000000000013f1      0xd23 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000002114     0xde75 ./Core/Src/exercise10.o
+ .debug_macro   0x000000000000ff89       0x6d ./Core/Src/exercise10.o
+ .debug_macro   0x000000000000fff6     0x3468 ./Core/Src/exercise10.o
+ .debug_macro   0x000000000001345e      0x174 ./Core/Src/exercise10.o
+ .debug_macro   0x00000000000135d2       0x5c ./Core/Src/exercise10.o
+ .debug_macro   0x000000000001362e      0x5be ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000013bec      0x1b7 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000013da3      0x1cb ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000013f6e      0x114 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000014082      0x1b2 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000014234       0x27 ./Core/Src/exercise10.o
+ .debug_macro   0x000000000001425b      0x12f ./Core/Src/exercise10.o
+ .debug_macro   0x000000000001438a      0x1bc ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000014546       0x34 ./Core/Src/exercise10.o
+ .debug_macro   0x000000000001457a       0x3c ./Core/Src/exercise10.o
+ .debug_macro   0x00000000000145b6       0x57 ./Core/Src/exercise10.o
+ .debug_macro   0x000000000001460d       0x88 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000014695      0x183 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000014818      0x141 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000014959       0x69 ./Core/Src/exercise10.o
+ .debug_macro   0x00000000000149c2      0x154 ./Core/Src/exercise10.o
+ .debug_macro   0x0000000000014b16      0x196 ./Core/Src/exercise7.o
+ .debug_macro   0x0000000000014cac      0x196 ./Core/Src/exercise8.o
+ .debug_macro   0x0000000000014e42      0x196 ./Core/Src/exercise9.o
+ .debug_macro   0x0000000000014fd8      0x1ac ./Core/Src/main.o
+ .debug_macro   0x0000000000015184      0x192 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_macro   0x0000000000015316      0x19c ./Core/Src/stm32f1xx_it.o
+ .debug_macro   0x00000000000154b2      0x183 ./Core/Src/system_stm32f1xx.o
+ .debug_macro   0x0000000000015635      0x1a7 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_macro   0x00000000000157dc      0x183 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_macro   0x000000000001595f      0x1ee ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_macro   0x0000000000015b4d      0x195 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
-.debug_line     0x0000000000000000     0x46cc
- .debug_line    0x0000000000000000      0x875 ./Core/Src/main.o
- .debug_line    0x0000000000000875      0x635 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_line    0x0000000000000eaa      0x6f6 ./Core/Src/stm32f1xx_it.o
- .debug_line    0x00000000000015a0      0x6b2 ./Core/Src/system_stm32f1xx.o
- .debug_line    0x0000000000001c52       0x87 ./Core/Startup/startup_stm32f103c6ux.o
- .debug_line    0x0000000000001cd9      0x8df ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_line    0x00000000000025b8      0xac7 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_line    0x000000000000307f      0x960 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_line    0x00000000000039df      0xced ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+.debug_line     0x0000000000000000     0x5f73
+ .debug_line    0x0000000000000000      0x69b ./Core/Src/exercise10.o
+ .debug_line    0x000000000000069b      0x664 ./Core/Src/exercise7.o
+ .debug_line    0x0000000000000cff      0x681 ./Core/Src/exercise8.o
+ .debug_line    0x0000000000001380      0x681 ./Core/Src/exercise9.o
+ .debug_line    0x0000000000001a01      0x71b ./Core/Src/main.o
+ .debug_line    0x000000000000211c      0x635 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_line    0x0000000000002751      0x6f6 ./Core/Src/stm32f1xx_it.o
+ .debug_line    0x0000000000002e47      0x6b2 ./Core/Src/system_stm32f1xx.o
+ .debug_line    0x00000000000034f9       0x87 ./Core/Startup/startup_stm32f103c6ux.o
+ .debug_line    0x0000000000003580      0x8df ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_line    0x0000000000003e5f      0xac7 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_line    0x0000000000004926      0x960 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_line    0x0000000000005286      0xced ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
-.debug_str      0x0000000000000000    0x79bc9
- .debug_str     0x0000000000000000    0x78c89 ./Core/Src/main.o
-                                      0x78fcb (size before relaxing)
- .debug_str     0x0000000000078c89       0x5a ./Core/Src/stm32f1xx_hal_msp.o
+.debug_str      0x0000000000000000    0x79c2a
+ .debug_str     0x0000000000000000    0x78a2f ./Core/Src/exercise10.o
+                                      0x78d5d (size before relaxing)
+ .debug_str     0x0000000000078a2f       0x4f ./Core/Src/exercise7.o
+                                      0x78d58 (size before relaxing)
+ .debug_str     0x0000000000078a7e       0x29 ./Core/Src/exercise8.o
+                                      0x78d54 (size before relaxing)
+ .debug_str     0x0000000000078aa7       0x2b ./Core/Src/exercise9.o
+                                      0x78d56 (size before relaxing)
+ .debug_str     0x0000000000078ad2      0x218 ./Core/Src/main.o
+                                      0x78f55 (size before relaxing)
+ .debug_str     0x0000000000078cea       0x5a ./Core/Src/stm32f1xx_hal_msp.o
                                       0x78d9a (size before relaxing)
- .debug_str     0x0000000000078ce3       0xbd ./Core/Src/stm32f1xx_it.o
+ .debug_str     0x0000000000078d44       0xbd ./Core/Src/stm32f1xx_it.o
                                       0x78db7 (size before relaxing)
- .debug_str     0x0000000000078da0       0x52 ./Core/Src/system_stm32f1xx.o
+ .debug_str     0x0000000000078e01       0x52 ./Core/Src/system_stm32f1xx.o
                                       0x788a8 (size before relaxing)
- .debug_str     0x0000000000078df2       0x36 ./Core/Startup/startup_stm32f103c6ux.o
+ .debug_str     0x0000000000078e53       0x36 ./Core/Startup/startup_stm32f103c6ux.o
                                          0x53 (size before relaxing)
- .debug_str     0x0000000000078e28      0x52e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_str     0x0000000000078e89      0x52e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
                                       0x78eff (size before relaxing)
- .debug_str     0x0000000000079356      0x300 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_str     0x00000000000793b7      0x300 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
                                       0x78f07 (size before relaxing)
- .debug_str     0x0000000000079656      0x324 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_str     0x00000000000796b7      0x324 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
                                       0x78c6c (size before relaxing)
- .debug_str     0x000000000007997a      0x24f ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_str     0x00000000000799db      0x24f ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
                                       0x78ca5 (size before relaxing)
 
 .comment        0x0000000000000000       0x53
- .comment       0x0000000000000000       0x53 ./Core/Src/main.o
+ .comment       0x0000000000000000       0x53 ./Core/Src/exercise10.o
                                          0x54 (size before relaxing)
+ .comment       0x0000000000000053       0x54 ./Core/Src/exercise7.o
+ .comment       0x0000000000000053       0x54 ./Core/Src/exercise8.o
+ .comment       0x0000000000000053       0x54 ./Core/Src/exercise9.o
+ .comment       0x0000000000000053       0x54 ./Core/Src/main.o
  .comment       0x0000000000000053       0x54 ./Core/Src/stm32f1xx_hal_msp.o
  .comment       0x0000000000000053       0x54 ./Core/Src/stm32f1xx_it.o
  .comment       0x0000000000000053       0x54 ./Core/Src/system_stm32f1xx.o
@@ -2364,14 +2796,18 @@ LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .comment       0x0000000000000053       0x54 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
  .comment       0x0000000000000053       0x54 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
-.debug_frame    0x0000000000000000      0xdcc
- .debug_frame   0x0000000000000000      0x128 ./Core/Src/main.o
- .debug_frame   0x0000000000000128       0x38 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_frame   0x0000000000000160      0x104 ./Core/Src/stm32f1xx_it.o
- .debug_frame   0x0000000000000264       0x58 ./Core/Src/system_stm32f1xx.o
- .debug_frame   0x00000000000002bc      0x334 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_frame   0x00000000000005f0      0x428 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_frame   0x0000000000000a18      0x14c ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_frame   0x0000000000000b64      0x21c ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
- .debug_frame   0x0000000000000d80       0x2c c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
- .debug_frame   0x0000000000000dac       0x20 c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+.debug_frame    0x0000000000000000      0xe0c
+ .debug_frame   0x0000000000000000       0x2c ./Core/Src/exercise10.o
+ .debug_frame   0x000000000000002c       0x48 ./Core/Src/exercise7.o
+ .debug_frame   0x0000000000000074       0x34 ./Core/Src/exercise8.o
+ .debug_frame   0x00000000000000a8       0x34 ./Core/Src/exercise9.o
+ .debug_frame   0x00000000000000dc       0x8c ./Core/Src/main.o
+ .debug_frame   0x0000000000000168       0x38 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_frame   0x00000000000001a0      0x104 ./Core/Src/stm32f1xx_it.o
+ .debug_frame   0x00000000000002a4       0x58 ./Core/Src/system_stm32f1xx.o
+ .debug_frame   0x00000000000002fc      0x334 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_frame   0x0000000000000630      0x428 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_frame   0x0000000000000a58      0x14c ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_frame   0x0000000000000ba4      0x21c ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_frame   0x0000000000000dc0       0x2c c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000dec       0x20 c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
